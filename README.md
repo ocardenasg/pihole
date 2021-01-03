@@ -1,2 +1,3 @@
-# pihole
-Pi Hole server settings
+# Pi Hole
+
+[Pi Hole Documentation](https://docs.pi-hole.net/core/pihole-command/)
